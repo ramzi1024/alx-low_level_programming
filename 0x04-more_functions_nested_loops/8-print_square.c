@@ -6,7 +6,7 @@
  * Return: empty
  */
 
-print_square(int size)
+void print_square(int size)
 {
 	int x, y;
 
