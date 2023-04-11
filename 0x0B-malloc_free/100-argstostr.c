@@ -6,7 +6,7 @@
  * argstostr - concatenates all the arguments of your program
  * @ac: argument
  * @av: argument
- * Return: ...
+ * Return: Something
  */
 
 char *argstostr(int ac, char **av)
