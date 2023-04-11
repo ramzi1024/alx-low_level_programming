@@ -32,7 +32,7 @@ char *argstostr(int ac, char **av)
 	{
 	while (av[i][j])
 	{
-	s[k] == av[i][j];
+	s[k] = av[i][j];
 	k++;
 	i++;
 	}
